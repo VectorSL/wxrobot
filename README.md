@@ -8,3 +8,5 @@ create a robot for your wechat
 *表情包放在pics文件夹，可按自己需求添加，jpg格式，名字随意。<br>
 *Revocation中放的是好友撤回的文件<br>
 *程序运行，扫码登录，机器人默认启动。发送stop给任意好友（建议发给自己或文件助手）可停止机器人，再发送startsl可开启。<br>
+### 我的微信公众号
+![公众号](https://github.com/VectorSL/wxrobot/blob/master/Revocation/Vector%E7%9A%84%E6%9D%82%E8%B4%A7%E9%93%BA.jpg)
